@@ -29,9 +29,9 @@ Find the file `index.js` and complete the tasks until all of your tests pass.
 
 **Plan to commit & push every time you get a new test passing!**. Committing often makes it SO much easier to figure out "what broke my code", and helps your TL keep track of how you're doing.
 
-If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. __Remember to formulate your help request in a professional manner__ - like you would at the job - by including error messages, screenshots, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
+If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. **Remember to formulate your help request in a professional manner** - like you would at the job - by including error messages, screenshots, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
 
-### Task 3 - Stretch 
+### Task 3 - Stretch
 
 There are stretch goals found throughout `index.js`. Complete these after you have all of your tests passing for MVP!
 
@@ -39,4 +39,4 @@ There are stretch goals found throughout `index.js`. Complete these after you ha
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
